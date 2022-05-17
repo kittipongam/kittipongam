@@ -1,5 +1,4 @@
-About Me
-=========
+## About Me
 
 - 👋 Hi, I’m @kittipongam
 - 👀 I’m interested in Full-Stack Developer
@@ -16,8 +15,8 @@ kittipongam/kittipongam is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-🌱 I’m currently learning Coding at codestar
-==========
+## 🌱 I’m currently learning Coding at codestar
+
 <ol>
 following this topic
       <ol> 1st week
