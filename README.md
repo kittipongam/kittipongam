@@ -5,8 +5,8 @@
 - 👀 I’m interested in Full-Stack Developer
 - 💞️ I’m looking to collaborate on the company that have a good teammate and opportuninty for learning coding and develop myself
 - 📫 How to reach me
-v
-v
+v <br>
+v <br>
 - check this out on profile Github info in >> https://github.com/kittipongam 
 - check this out on profile Linkedin info in >> https://www.linkedin.com/in/kittipot-pongam-6aa9921b3/
 - check this out on profile Facebook info in >>https://www.facebook.com/kittpot.singh/
