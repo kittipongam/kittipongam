@@ -9,6 +9,7 @@ About Me
 - v
 - check this out on profile Github info in >> https://github.com/kittipongam 
 - check this out on profile Linkedin info in >> https://www.linkedin.com/in/kittipot-pongam-6aa9921b3/
+- check this out on profile Facebook info in >>https://www.facebook.com/kittpot.singh/
 
 <!---
 kittipongam/kittipongam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
