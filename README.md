@@ -42,7 +42,7 @@ following this topic
       </ol>
       <ol> 4th week
             <li> 23/05/2022 - create MVC web service (Node.js and MongoDB)</li>
-            <li> 24/05/2022 - HTML(coding, polyfill, shim) </li>
+            <li> 24/05/2022 - HTML(coding, polyfill, shim) Frontend Toolkit(Bootstrap 5.2 CSS) </li>
             <li> 25/05/2022 - </li>
             <li> 26/05/2022 - </li>
       </ol>
