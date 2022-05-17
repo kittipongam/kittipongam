@@ -1,6 +1,7 @@
-## About Me
 
-- 👋 Hi, I’m @kittipongam
+## About me
+> 👋 Hi, I'm Singh kittipot, An ordinary person who studied hard , I have a high inspiration for learning coding to be able to think and to do for my passion. I like to drive myself to learn coding and management skills to improve and it will be a benefit for your organization. so i will create some web service by using node.js framework
+
 - 👀 I’m interested in Full-Stack Developer
 - 💞️ I’m looking to collaborate on the company that have a good teammate and opportuninty for learning coding and develop myself
 - 📫 How to reach me
