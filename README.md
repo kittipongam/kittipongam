@@ -16,7 +16,7 @@ kittipongam/kittipongam is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🌱 I’m currently learning Coding at codestar
+## I’m currently learning Coding at codestar
 
 <ol>
 following this topic
