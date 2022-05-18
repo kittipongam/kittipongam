@@ -37,7 +37,7 @@ following this topic
       <ol> 3rd week
             <li> 16/05/2022 - create MVC web service (Node.js and MongoDB)</li>
             <li> 17/05/2022 - HTML(coding, polyfill, shim) Frontend Toolkit(Bootstrap 5.2 CSS) </li>
-            <li> 18/05/2022 - </li>
+            <li> 18/05/2022 - Polyfill(Jquery Read and Write from input) Vue(Read and Write from input)  </li>
             <li> 19/05/2022 - </li>
             <li> 20/05/2022 - </li>
       </ol>
