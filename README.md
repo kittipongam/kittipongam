@@ -39,7 +39,7 @@ following this topic
             <li> 17/05/2022 - HTML(coding, polyfill, shim) Frontend Toolkit(Bootstrap 5.2 CSS) </li>
             <li> 18/05/2022 - Polyfill(Jquery Read and Write from input) Vue(Read and Write from input)  </li>
             <li> 19/05/2022 - Vue(input name) and Cryptocurrency(pull price from webservice-coinbase to show your web page)</li>
-            <li> 20/05/2022 - classes Javascript</li>
+            <li> 20/05/2022 - classes Javascript and cpryto currency payment with web3</li>
       </ol>
       <ol> 4th week
             <li> 23/05/2022 - Angular </li>
