@@ -42,7 +42,7 @@ following this topic
             <li> 20/05/2022 - classes Javascript and cpryto currency payment with web3</li>
       </ol>
       <ol> 4th week
-            <li> 23/05/2022 - Angular </li>
+            <li> 23/05/2022 - Angular(create button + web service of crypto currency) </li>
             <li> 24/05/2022 - </li>
             <li> 25/05/2022 - </li>
             <li> 26/05/2022 - </li>
